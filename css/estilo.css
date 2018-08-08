@@ -1,0 +1,96 @@
+.main {
+    padding-top:80px;
+}
+
+.navbar-default{
+    background-color:#4169e1;
+}
+
+
+nav ul li a {
+    font-size: 20px;
+    font-style: italic;
+}
+
+#h1 {
+    font-size: 30px;
+    font-style: italic;
+    color: black;
+    
+}
+
+#h2{
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: black;
+}
+
+#movelmenu ul li a{
+    color: black;
+    transition-duration: 1.0s;
+}
+#movelmenu ul li a:hover{
+    color: whitesmoke;
+    transform: scale(1.1);
+}
+
+.img-circle{
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+    
+}
+
+.main p {
+    padding: 0 80px 90px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 27px;
+}
+
+.list-group {
+    display: block;
+    width: 50%;
+    margin-left: 25%;
+}
+.list-group-item{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+#img2{
+    max-width:50%;
+    float: left;
+    min-width: 250px;
+    height: 75%;
+    
+}
+
+@media (max-width:550px){
+    #img2{
+        max-width: 100%;
+        
+    }
+}
+
+#contato {
+    background-color: #4169e1;
+    margin-top: 30px;
+}
+#contato li {
+    display: inline-block;
+    
+}
+#contato li img {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
+
+#contato ul {
+    text-align: center;
+}
