@@ -3,7 +3,7 @@
 }
 
 .navbar-default{
-    background-color:#4169e1;
+    background-color:#2c3e50;
 }
 
 
@@ -20,7 +20,7 @@ nav ul li a {
 }
 
 #h2{
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     font-style: italic;
     margin-bottom: 20px;
@@ -50,6 +50,8 @@ nav ul li a {
     text-align: center;
     font-size: 27px;
 }
+
+
 
 .list-group {
     display: block;
@@ -90,9 +92,8 @@ nav ul li a {
 }
 
 #contato {
-    background-color: #4169e1;
+    background-color: #2c3e50;
     margin-top: 30px;
-    margin-bottom: 10px;
 }
 #contato li {
     display: inline-block;
@@ -106,4 +107,5 @@ nav ul li a {
 
 #contato ul {
     text-align: center;
+    padding-left: 0;
 }
